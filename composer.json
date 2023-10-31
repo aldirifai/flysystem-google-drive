@@ -1,11 +1,11 @@
 {
-    "name": "nao-pon/flysystem-google-drive",
+    "name": "aldirifai/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
         {
-            "name": "Naoki Sawada",
-            "email": "hypweb@gmail.com"
+            "name": "Muhamad Aldi Rifai",
+            "email": "aldirifaiakun@gmail.com"
         }
     ],
     "require": {
